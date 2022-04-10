@@ -1,0 +1,19 @@
+- Play, browse and control music from spotify or other players. Maybe include MD.
+
+- Alarms, clock and timers.
+
+- Practical weather report.
+
+- Define words and browse wikipedia.
+
+- Math calculator (advanced).
+
+- Schedule/calendar management.
+
+- Donwload music or movies.
+
+- System updates.
+
+- Schedule reboots or shutdowns.
+
+- News
