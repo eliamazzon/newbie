@@ -14,6 +14,12 @@
 
 - System updates.
 
-- Schedule reboots or shutdowns.
+- Schedule reboots or shutdowns
+
+- Recognize songs and danger sounds
+
+- Manage calls, sms, and notifications. (Notify me if x text me)
+
+- Execute heath diagnosis
 
 - News
